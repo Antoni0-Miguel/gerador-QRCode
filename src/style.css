@@ -5,7 +5,7 @@
 }
 
 body{
-  background-image: linear-gradient (90deg, rgb(256, 256, 256), rgb(44, 44, 44));
+  background-image: linear-gradient(90deg, #fff, #000);
   max-height: 100vh;
 }
 
